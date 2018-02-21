@@ -2,10 +2,9 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: page
+title: Projects
 ---
-# Projects
-
 ## [@ARobotLooksAt](https://www.instagram.com/arobotlooksat/): AI art on Instagram
 
 An Instagram account where I post pictures I've produced or altered by machine learning techniques that I'm learning or playing around with. I'm always happy to get suggestions for techniques/toolsets/repos I should check out!
