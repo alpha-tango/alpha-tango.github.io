@@ -10,6 +10,7 @@ title: Projects
 Using scraped job postings and Word2Vec to answer the question "what skills do I need to learn to make me a better job candidate?" Code and summary in Jupyter notebook (linked above). From the Women in Tech July 2018 hackathon. Word2Vec results were deployed as an app using Domino for the duration of the hackathon. This project was a continuation of a pre-existing project, Skill Clusters [website](http://skillclusters.com/sc). My involvement was limited to the hackathon weekend.
 
 [Git repo with Jupyter notebook](https://github.com/alpha-tango/job-listings)
+
 [Domino project](https://hackathon.domino.tech/u/atp/skillclusters)
 
 ## [Titanic Dataset](https://github.com/alpha-tango/titanic)
