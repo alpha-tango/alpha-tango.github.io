@@ -5,6 +5,4 @@
 layout: page
 ---
 
-### Welcome!
-
 Check out my [blog](/blog), some of my [featured projects](/projects), or learn more [about me](/about).
