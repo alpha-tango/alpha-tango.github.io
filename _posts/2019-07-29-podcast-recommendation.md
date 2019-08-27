@@ -2,7 +2,7 @@
 layout: post
 tags: social
 ---
-![AI Zen podcast logo](/images/62057601-8ea02d80-b1e5-11e9-88fa-c1087ada073e.png)
+![AI Zen podcast logo](/images/62057601-8ea02d80-b1e5-11e9-88fa-c1087ada073e.png){:width="300px"}
 
 ## Podcast recommendation: AI Zen with Andrew and Jen
 
