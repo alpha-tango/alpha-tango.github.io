@@ -3,7 +3,7 @@ layout: post
 tags: social
 ---
 
-[!data.world](/images/63811005-e799d900-c8eb-11e9-9aaa-03b2a4db3ac5.png){:width="300px"}
+![data.world](/images/63811005-e799d900-c8eb-11e9-9aaa-03b2a4db3ac5.png){:width="300px"}
 
 ### #FunDataFriday: Data.World 
 
